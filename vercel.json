@@ -1,0 +1,9 @@
+{
+"redirects": [
+{
+"source": "/(.*)",
+"destination": "https://new.express.adobe.com/webpage/wZ0yRoSXk3TEN",
+"permanent": false
+}
+]
+}
